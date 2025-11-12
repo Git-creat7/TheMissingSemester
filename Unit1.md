@@ -1,7 +1,5 @@
 # 第一组
 
-
-
 | 单词        | 词性及释义                       |
 | ----------- | :------------------------------- |
 | universe    | n. 宇宙                          |
@@ -34,6 +32,8 @@
 >词根verse ：旋转
 >词根form：形成
 
+# 第二组
+
 | 单词       | 词性及释义                                        |
 | ---------- | :------------------------------------------------ |
 | inofrm     | v.通知，告知                                      |
@@ -52,3 +52,33 @@
 | bind       | v.捆绑，系，约束                                  |
 | bend       | v.使...弯曲                                       |
 | twist      | n.拐弯处；v.使弯曲，使扭曲                        |
+| blend      | v.混合，融合                                      |
+| mix        | n.混合，搅合；v.使混合,配制                       |
+| mixture    | n.混合物,混合                                     |
+| stir       | n.搅和,激动；v.搅动                               |
+| mountain   | n.高山                                            |
+| fountain   | n.喷泉，源泉                                      |
+| profound   | adj.影响深远的                                    |
+| foundation | n.地基，基础                                      |
+| mount      | v.逐步增加，登上                                  |
+| soar       | n.升空，飞升                                      |
+| ridge      | n.山脊，岭                                        |
+| amount     | n.数量；v.（与to连用）等于；总计                  |
+| ascend     | v.升高，上升                                      |
+| descend    | v.下降；（~into）陷入                             |
+| descendant | n.子孙，后代                                      |
+| offspring  | n.后代                                            |
+| ancient    | adj.古代的                                        |
+| ancestor   | n.祖先，祖宗，原型                                |
+| proceed    | v.进行，继续前进                                  |
+| procession | n.行列                                            |
+| troop      | n.军队；v.列队前进                                |
+| precede    | v.在...之前发生，走在前面                         |
+| process    | n.过程；v.加工                                    |
+| procedure  | n.程序，步骤                                      |
+| access     | v.进入，使用；n.接近...的方法，机会，权利         |
+| exceed     | v.超过，胜过                                      |
+| excess     | n.超过，多余的量；adj.额外的，过量的              |
+| recede     | v.逐渐减弱，渐行渐远                              |
+| concede    | v.承认，让步                                      |
+| compromise | n.妥协；v.妥协                                    |
