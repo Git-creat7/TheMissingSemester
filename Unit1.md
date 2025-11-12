@@ -82,5 +82,3 @@
 | recede     | v.逐渐减弱，渐行渐远                              |
 | concede    | v.承认，让步                                      |
 | compromise | n.妥协；v.妥协                                    |
-
-text
