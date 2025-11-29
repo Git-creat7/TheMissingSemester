@@ -1,0 +1,54 @@
+## DAY3（101-150）
+
+| 单词          | 词性及释义                     |
+| :------------ | :----------------------------- |
+| rhythm        | [ˈrɪðəm] n.节奏                |
+| drawback      | [ˈdrɔːbæk] n.缺点              |
+| graceful      | [ˈɡreɪsfl] adj.优美的          |
+| gratitude     | [ˈɡrætɪtjuːd] n.感谢           |
+| peculiar      | [pɪˈkjuːliə(r)] adj.奇怪的     |
+| guidance      | [ˈɡaɪdns] n.指导               |
+| significance  | [sɪɡˈnɪfɪkəns] n.意义          |
+| significant   | [sɪɡˈnɪfɪkənt] adj.重要的      |
+| tolerate      | [ˈtɒləreɪt] v.容忍             |
+| tolerance     | [ˈtɒlərəns] n.忍受             |
+| tolerant      | [ˈtɒlərənt] adj.容忍的         |
+| assistance    | [əˈsɪstəns] n.帮助             |
+| prohibit      | [prəˈhɪbɪt] v.禁止             |
+| prompt        | [prɒmpt] adj.迅速的；v.促使    |
+| propose       | [prəˈpəʊz] v.提议              |
+| protest       | [ˈprəʊtest] v.抗议；n.抗议     |
+| provided      | [prəˈvaɪdɪd] conj.假如         |
+| provision     | [prəˈvɪʒn] n.预备              |
+| proclaim      | [prəˈkleɪm] v.宣布             |
+| provoke       | [prəˈvəʊk] v.激怒              |
+| purchase      | [ˈpɜːtʃəs] v./n.购买           |
+| pursue        | [pəˈsjuː] v.追求               |
+| pursuit       | [pəˈsjuːt] n.追求              |
+| defeat        | [dɪˈfiːt] v.击败；n.击败       |
+| deceive       | [dɪˈsiːv] v.欺骗               |
+| defy          | [dɪˈfaɪ] v.反抗                |
+| anxious       | [ˈæŋkʃəs] adj.焦虑的           |
+| harmony       | [ˈhɑːməni] n.和谐              |
+| harmonious    | [hɑːˈməʊniəs] adj.和谐的       |
+| infect        | [ɪnˈfekt] v.传染               |
+| infectious    | [ɪnˈfekʃəs] adj.传染的         |
+| spacious      | [ˈspeɪʃəs] adj.宽敞的          |
+| conscientious | [ˌkɒnʃiˈenʃəs] adj.勤勉认真的  |
+| prosperous    | [ˈprɒspərəs] adj.繁荣的        |
+| prosperity    | [prəˈsperəti] n.繁荣           |
+| ambitious     | [æmˈbɪʃəs] adj.有抱负的        |
+| obvious       | [ˈɒbviəs] adj.明显的           |
+| tedious       | [ˈtiːdiəs] adj.冗长的          |
+| conscious     | [ˈkɒnʃəs] adj.意识到的         |
+| consciousness | [ˈkɒnʃəsnəs] n.意识            |
+| despair       | [dɪˈspeə(r)] n./v.绝望         |
+| detective     | [dɪˈtektɪv] n.侦探；adj.刑侦的 |
+| detect        | [dɪˈtekt] v.查明               |
+| decay         | [dɪˈkeɪ] n./v.衰退             |
+| tremendous    | [trəˈmendəs] adj.巨大的        |
+| marvelous     | [ˈmɑːvələs] adj.令人惊异的     |
+| jealous       | [ˈdʒeləs] adj.妒忌的           |
+| numerous      | [ˈnjuːmərəs] adj.众多的        |
+| poison        | [ˈpɔɪzn] n.毒药                |
+| poisonous     | [ˈpɔɪzənəs] adj.有毒的         |

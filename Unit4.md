@@ -1,0 +1,54 @@
+## DAY4（151-200）
+
+| 单词           | 词性及释义                                 |
+| :------------- | :----------------------------------------- |
+| demonstrate    | [ˈdemənstreɪt] v.证明                      |
+| deputy         | [ˈdepjuti] n.副手                          |
+| continuous     | [kənˈtɪnjuəs] adj.连续不断的               |
+| enormous       | [ɪˈnɔːməs] adj.巨大的                      |
+| authority      | [ɔːˈθɒrəti] n.权力                         |
+| aware          | [əˈweə(r)] adj.意识到的                    |
+| ashamed        | [əˈʃeɪmd] adj.羞愧的                       |
+| amuse          | [əˈmjuːz] v.逗乐                           |
+| deliberate     | [dɪˈlɪbərət] adj.故意的；v.仔细考虑        |
+| deliberately   | [dɪˈlɪbərətli] adv.故意地                  |
+| award          | [əˈwɔːd] n.奖品                            |
+| deteriorate    | [dɪˈtɪəriəreɪt] v.恶化                     |
+| arise          | [əˈraɪz] v.出现                            |
+| arouse         | [əˈraʊz] v.引起                            |
+| concept        | [ˈkɒnsept] n.概念                          |
+| avenue         | [ˈævənjuː] n.大街                          |
+| capable        | [ˈkeɪpəbl] adj.有能力的                    |
+| occupy         | [ˈɒkjupaɪ] v.占领                          |
+| occupation     | [ˌɒkjuˈpeɪʃn] n.职业                       |
+| perceive       | [pəˈsiːv] v.认为                           |
+| reception      | [rɪˈsepʃn] n.接待处                        |
+| defense        | [dɪˈfens] n.防卫                           |
+| occasion       | [əˈkeɪʒn] n.场合                           |
+| occasional     | [əˈkeɪʒənl] adj.偶然的                     |
+| cable          | [ˈkeɪbl] n.电缆                            |
+| region         | [ˈriːdʒən] n.区域                          |
+| regulate       | [ˈreɡjuleɪt] v.管理                        |
+| royal          | [ˈrɔɪəl] adj.王室的                        |
+| bankrupt       | [ˈbæŋkrʌpt] adj.破产的；v.使破产；n.破产者 |
+| corrupt        | [kəˈrʌpt] adj.贪污的；v.使腐化             |
+| disrupt        | [dɪsˈrʌpt] v.扰乱                          |
+| interrupt      | [ˌɪntəˈrʌpt] v.打断                        |
+| moral          | [ˈmɒrəl] adj.道德的；n.道德                |
+| orbit          | [ˈɔːbɪt] v.环绕运行；n.轨道                |
+| optimism       | [ˈɒptɪmɪzəm] n.乐观                        |
+| antique        | [ænˈtiːk] n.古董；adj.古老的               |
+| nourish        | [ˈnʌrɪʃ] v.滋养                            |
+| inferior       | [ɪnˈfɪəriə(r)] adj.较差的                  |
+| optional       | [ˈɒpʃənl] adj.可选择的                     |
+| adoption       | [əˈdɒpʃn] n.采用                           |
+| geology        | [dʒiˈɒlədʒi] n.地质学                      |
+| sensible       | [ˈsensəbl] adj.明智的                      |
+| sensitive      | [ˈsensətɪv] adj.敏感的                     |
+| consent        | [kənˈsent] n./v.同意                       |
+| resent         | [rɪˈzent] v.愤恨                           |
+| represent      | [ˌreprɪˈzent] v.代表                       |
+| representative | [ˌreprɪˈzentətɪv] adj.有代表性的；n.代表   |
+| fraction       | [ˈfrækʃn] n.小部分                         |
+| fragment       | [ˈfræɡmənt] n.碎片                         |
+| principal      | [ˈprɪnsəpl] adj.主要的；n.校长             |

@@ -1,0 +1,54 @@
+## DAY5（201-250）
+
+| 单词           | 词性及释义                           |
+| :------------- | :----------------------------------- |
+| principle      | [ˈprɪnsəpl] n.原则                   |
+| premier        | [ˈpremiə(r)] n.总理；adj.首要的      |
+| preferable     | [ˈprefrəbl] adj.更好的               |
+| preference     | [ˈprefrəns] n.偏爱                   |
+| preliminary    | [prɪˈlɪmɪnəri] adj.预备的            |
+| prejudice      | [ˈpredʒudɪs] n.偏见                  |
+| pretend        | [prɪˈtend] v.假装                    |
+| prevent        | [prɪˈvent] v.防止                    |
+| prevail        | [prɪˈveɪl] v.盛行                    |
+| precise        | [prɪˈsaɪs] adj.精确的                |
+| invade         | [ɪnˈveɪd] v.入侵                     |
+| index          | [ˈɪndeks] n.索引                     |
+| indicate       | [ˈɪndɪkeɪt] v.表明                   |
+| thoughtful     | [ˈθɔːtfl] adj.体贴的                 |
+| considerate    | [kənˈsɪdərət] adj.体贴的             |
+| faithful       | [ˈfeɪθfl] adj.忠诚的                 |
+| fruitful       | [ˈfruːtfl] adj.成果丰硕的            |
+| calendar       | [ˈkælɪndə(r)] n.日历                 |
+| scholar        | [ˈskɒlə(r)] n.学者                   |
+| lunar          | [ˈluːnə(r)] adj.月亮的               |
+| plentiful      | [ˈplentɪfl] adj.丰富的               |
+| skillful       | [ˈskɪlfl] adj.熟练的                 |
+| dynamic        | [daɪˈnæmɪk] n.动力；adj.充满活力的   |
+| dramatic       | [drəˈmætɪk] adj.戏剧的               |
+| magnetic       | [mæɡˈnetɪk] adj.磁性的               |
+| alcohol        | [ˈælkəhɒl] n.酒精                    |
+| diplomatic     | [ˌdɪpləˈmætɪk] adj.外交的            |
+| idealistic     | [ˌaɪdiəˈlɪstɪk] adj.理想主义的       |
+| strategic      | [strəˈtiːdʒɪk] adj.战略的            |
+| ethic          | [ˈeθɪk] n.道德规范                   |
+| pessimistic    | [ˌpesɪˈmɪstɪk] adj.悲观的            |
+| romantic       | [rəʊˈmæntɪk] adj.浪漫的              |
+| academic       | [ˌækəˈdemɪk] adj.学术的              |
+| characteristic | [ˌkærəktəˈrɪstɪk] n.特征；adj.典型的 |
+| cubic          | [ˈkjuːbɪk] adj.立方的                |
+| brochure       | [ˈbrəʊʃə(r)] n.手册                  |
+| assure         | [əˈʃʊə(r)] v.使确信                  |
+| ensure         | [ɪnˈʃʊə(r)] v.保证                   |
+| insure         | [ɪnˈʃʊə(r)] v.投保                   |
+| insurance      | [ɪnˈʃʊərəns] n.保险                  |
+| panel          | [ˈpænl] n.专家咨询组                 |
+| punctual       | [ˈpʌŋktʃuəl] adj.准时的              |
+| input          | [ˈɪnpʊt] n./v.输入                   |
+| install        | [ɪnˈstɔːl] v.安装                    |
+| inclusive      | [ɪnˈkluːsɪv] adj.包括的              |
+| instant        | [ˈɪnstənt] adj.立即的；n.瞬间        |
+| instinct       | [ˈɪnstɪŋkt] n.本能                   |
+| institute      | [ˈɪnstɪtjuːt] n.机构                 |
+| insult         | [ɪnˈsʌlt] v.侮辱；n.侮辱[ˈɪnsʌlt]    |
+| investigate    | [ɪnˈvestɪɡeɪt] v.调查                |
