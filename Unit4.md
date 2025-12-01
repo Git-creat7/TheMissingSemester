@@ -52,3 +52,10 @@
 | fraction       | [ˈfrækʃn] n.小部分                         |
 | fragment       | [ˈfræɡmənt] n.碎片                         |
 | principal      | [ˈprɪnsəpl] adj.主要的；n.校长             |
+
+# 帮助理解
+1.一位媒体大亨的财务状况正在迅速 deteriorate。这很快 arouse 了公众巨大的好奇心。媒体从每一条 avenue 涌来报道，发现他曾经用来传输信息的 cable 公司出了大问题。由于经营不善，这位大亨最终无可避免地 bankrupt 了
+
+2.这位脾气 sensitive 的 principal 有一个 antique 爱好：研究岩石。他认为，想要 nourish 学生的智力，最好的途径就是让他们学习 geology。他提出了一个 sensible 计划：购买一批 inferior 的岩石，但前提是所有老师必须 consent
+
+3.这是一个 enormous occasion，但气氛并不轻松。颁奖典礼的组织者 deliberately occupy 了最好的位置。他们被 corrupt 的思想所笼罩，完全失去了 moral 底线。当他们宣布 award 奖项时，一些嘉宾 perceive 到这背后有黑幕，内心充满了 resent。很快，抗议者的 defense 被突破，典礼被 disrupt。媒体拍下了主持人手里的奖杯摔成了 fragment，在地面上只剩一小 fraction 完好的样子。这一幕，被在场的所有人视为 represent 了一个笑话，彻底 amuse 了观众。
